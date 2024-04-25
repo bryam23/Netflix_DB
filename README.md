@@ -1,2 +1,1 @@
-# Netflix_DB 
-peliculas
+# Netflix_DB
