@@ -13,4 +13,4 @@ Nuestro Dataset publico contiene informacion sobre directores, castings, pelicul
 
 ## Rol a desarrollar
 
-Se desarrollo un rol de ingenieria-analisis de datos, tras pasar por una breve etapa de ETL (EXTRACTION, TRANSFORMATION, LOAD) para el posterior analisis exploratorio de los datos que tuvo como finalidad conocer nuestro dataset y conocer los patrones, tendencias que tenemos en nuestro dataset
+Se desarrollo un rol de ingenieria-analisis de datos, tras pasar por una breve etapa de ETL (Extraction, Transformation, Load) para el posterior analisis exploratorio de los datos que tuvo como finalidad conocer nuestro dataset y conocer los patrones, tendencias que tenemos en nuestro dataset
